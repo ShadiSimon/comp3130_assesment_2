@@ -1,16 +1,4 @@
-# comp3130_flutter
+# asssessment_2
+A new Flutter project. in figma, i got messed up.I was not clear about recuirement.In figma, i made all of four projects in(coffee shop, car parking, gymnastics, service desk).I didn't get good comments and my thought wasn't deep. Now, in flutter i decided to work on one project to make it better.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is a parking order app that lets the user choose from lists of parking spots and pay
