@@ -1,4 +1,4 @@
-# comp3130_assesment_2
+# comp3130_flutter
 
 A new Flutter project.
 

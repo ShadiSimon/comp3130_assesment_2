@@ -1,4 +1,4 @@
-package com.example.comp3130_assesment_2
+package com.example.comp3130_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
